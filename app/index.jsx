@@ -67,6 +67,6 @@ const styles = StyleSheet.create({
   footerText: {
     textAlign: "center",
     color: "#98A0A8",
-    fontSize: 12.4,
+    fontSize: 12.5,
   },
 });
